@@ -45,10 +45,7 @@
         "contribute": false,
         
         "sidebar": {
-          "Зв'язатися з нами: info@ed-era.com": "mailto:info@ed-era.com",
-          "Онлайн-курс з цього предмету": "https://courses.ed-era.com/courses/EdEra/u102/U102/about",
-          "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books",
-          "Українська мова: від фонетики до морфології": "https://www.ed-era.com/books/ukrainian/"
+          "Зв'язатися з нами: connect@ed-era.com": "mailto:connect@ed-era.com"
         }
     }
 }
